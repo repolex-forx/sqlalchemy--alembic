@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sqlalchemy/alembic/commit/723d9c2cc83b77b071db967faf49640295b6f15a",
       "git:hexsha": "723d9c2cc83b77b071db967faf49640295b6f15a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T22:33:14.236731+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sqlalchemy/alembic/commit/3bf28d1fc3e665ae81baa5e47609840ea6f42142",
